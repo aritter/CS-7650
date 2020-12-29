@@ -43,12 +43,11 @@ Graded work will include both written and programming assignments. All assignmen
 
 ### Programming Assignments (Projects) - 40%
 
-There will be three programming assignments where you get hands-on experience implementing algorithms that are discussed in class.  The assignments will be in Python, and make use of [Pytorch](https://pytorch.org/).  The assignments will require a non-trivial amount of computation time to complete, we are designing them to be completed using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing the assignments will require some computation time, even with an efficient implementation, so we strongly recommend starting work on the programming projects well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
 ### Written Assignments (Problem Sets) - 20%
 
-The written assignments will mostly be mathematical.  You can write your answers on paper and then scan and upload them to Gradescope.  Please write your answers clearly - if we are not able to read
-them, we won't be able to give credit.
+The written assignments will mostly be mathematical.  You can scan and upload your solution to Gradescope.  Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
 
 ### Midterm Exam - 20%
 
