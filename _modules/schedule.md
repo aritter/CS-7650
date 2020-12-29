@@ -1,5 +1,5 @@
 ---
-title: Calendar
+title: Schedule
 ---
 
 Jan 18
