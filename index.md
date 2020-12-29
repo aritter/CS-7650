@@ -16,3 +16,7 @@ seo:
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
