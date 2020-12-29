@@ -17,6 +17,9 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+- [Piazza](https://piazza.com/class/kj7vngax6ni7lt)
+- [Gradescope](https://www.gradescope.com/courses/218786)
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
