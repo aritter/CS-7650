@@ -21,7 +21,7 @@ Mondays, Wednesdays 2:00-3:15pm
 
 ## Textbook(s)
 
-There are two excellent NLP textbooks that are freely available online. I will assign readings from both - there is a lot of value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
+There are two excellent NLP textbooks that are freely available online. Readings will be assigned from both.  There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
 
 - [Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -34,12 +34,11 @@ There are two excellent NLP textbooks that are freely available online. I will a
 
 ## Prerequisites
 
-The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working with Python, or have the ability to learn a new programming language very quickly.  The course also assumes mastery of basic concepts in probability and multivariable calculus.  A prior Machine Learning course would be very helpful,
-but is not required.
+The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working with Python, or have developed the ability to learn a new programming language very quickly.  The course also assumes mastery of basic concepts in probability and multivariable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
 
 ## Assignments / Grading
 
-Graded work will include both written and programming assignments. All assignments should be submitted to Gradescope by 11:59pm on the day it is due.  Each student will have 3 flexible days to turn in late homework throughout the semester. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day the homework is late. Please email your homework to the instructor in case there are any technical issues with submission.
+Graded work will include both written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.  Each student will have 3 flexible days to turn in late homework throughout the semester. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.  Please email your homework to the instructor in case of any technical issues with submission.
 
 ### Programming Assignments (Projects) - 40%
 
