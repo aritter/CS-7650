@@ -34,7 +34,7 @@ There are two excellent NLP textbooks that are freely available online. Readings
 
 ## Prerequisites
 
-The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working with Python, or have developed the ability to learn a new programming language very quickly.  The course also assumes mastery of basic concepts in probability and multivariable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
+This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
 
 ## Assignments / Grading
 
