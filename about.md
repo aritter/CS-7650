@@ -48,9 +48,13 @@ We plan to assign three programming assignments that provide hands-on experience
 
 The written assignments will mostly be mathematical.  You can scan and upload your solution to Gradescope.  Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
 
-### Midterm Exam - 20%
+### Midterm Exam - 15%
 
 The midterm will be similar in format to the written assignments (problem sets), but will be more substantial.
+
+### Participation - 5%
+
+You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class.
 
 ### Final Project - 20%
 
