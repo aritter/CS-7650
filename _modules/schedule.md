@@ -7,7 +7,7 @@ Jan 18
 
 Jan 20
 : Course Introduction
-  : [J+M Chapter 1](https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf)
+  : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 25
 : Machine Learning (Problem Set 1 due)
