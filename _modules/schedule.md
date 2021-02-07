@@ -22,4 +22,5 @@ Feb 3
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Feb 8
-: [Project 1 due](https://colab.research.google.com/drive/1ulvIvI5LWWGrk1P0gkcMY2X3tmJfUcZN?usp=sharing)
+: [Sequence Models](https://aritter.github.io/CS-7650/slides/lec6-nn.pdf) ([Project 1 due](https://colab.research.google.com/drive/1ulvIvI5LWWGrk1P0gkcMY2X3tmJfUcZN?usp=sharing))
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
