@@ -35,7 +35,7 @@ Feb 17
 
 Feb 24
 : [Recurrent Neural Networks](https://aritter.github.io/CS-7650/slides/lec8-nn3.pdf)
-  : [J+M 9.2](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 10
 : [Project 2 Due](https://colab.research.google.com/drive/1rY49V2cp0PLnEgdlwiQhMEwgkBuBVjmz?usp=sharing)
