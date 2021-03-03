@@ -39,7 +39,7 @@ Feb 24
 
 Mar 3
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
-  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 10
 : [Project 2 Due](https://colab.research.google.com/drive/1rY49V2cp0PLnEgdlwiQhMEwgkBuBVjmz?usp=sharing)
