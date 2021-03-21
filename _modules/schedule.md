@@ -45,9 +45,12 @@ Mar 10
 : [Statistical Machine Translation](https://aritter.github.io/CS-7650/slides/lec10-mt1.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Mar 15
+: [Project 2 Due](https://colab.research.google.com/drive/1rY49V2cp0PLnEgdlwiQhMEwgkBuBVjmz?usp=sharing)
+
 Mar 17
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-7650/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Mar 15
-: [Project 2 Due](https://colab.research.google.com/drive/1rY49V2cp0PLnEgdlwiQhMEwgkBuBVjmz?usp=sharing)
+April 14
+: [Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As)
