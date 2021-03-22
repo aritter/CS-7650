@@ -52,5 +52,13 @@ Mar 17
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-7650/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Mar 24
+: Mid-Semester Break (no class)
+
+Mar 29
+: [Machine Translation Part 2](https://aritter.github.io/CS-7650/slides/lec12-mt2.pdf)
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+
 April 14
 : [Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As)
