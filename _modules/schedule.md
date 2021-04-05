@@ -59,8 +59,9 @@ Mar 29
 : [Machine Translation Part 2](https://aritter.github.io/CS-7650/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Mar 31
-: No Class
+April 4
+: [Pretrained Transformers](https://aritter.github.io/CS-7650/slides/lec13-bert.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 
 April 14
