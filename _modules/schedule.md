@@ -63,6 +63,10 @@ April 4
 : [Pretrained Transformers](https://aritter.github.io/CS-7650/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
+April 12
+: [Information Extraction and Semantic Role Labeling](https://aritter.github.io/CS-7650/slides/lec13-iesrl.pdf)
+  : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 
 April 14
 : [Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As)
