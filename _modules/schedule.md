@@ -68,5 +68,5 @@ April 12
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 
-April 14
+April 19
 : [Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As)
