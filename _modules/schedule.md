@@ -68,5 +68,5 @@ April 12
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 April 19
-: [Question Answering](https://aritter.github.io/CS-7650/slides/lec14-rc.pdf) [Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As)
+: [Question Answering](https://aritter.github.io/CS-7650/slides/lec14-rc.pdf) ([Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As))
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
