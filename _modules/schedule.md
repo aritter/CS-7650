@@ -70,3 +70,7 @@ April 12
 April 19
 : [Question Answering](https://aritter.github.io/CS-7650/slides/lec14-rc.pdf) ([Project 3 Due](https://colab.research.google.com/drive/1M2TJD4kjBooKVmN9-7aSa-MyOy8bB1As))
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+
+April 21
+: [Dialogue](https://aritter.github.io/CS-7650/slides/lec16-dialogue.pdf)
+  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
