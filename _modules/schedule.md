@@ -74,3 +74,9 @@ April 19
 April 21
 : [Dialogue](https://aritter.github.io/CS-7650/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
+
+April 26
+: [Wrapup / Ethics](https://aritter.github.io/CS-7650/slides/lec18-wrapup.pdf)
+
+May 5
+: Final Project Reports Due (submit on Gradescope)
